@@ -10,6 +10,7 @@ This repository contains several landmarked based and deep leaning (GAN) based f
    e.g., [[MorphThing]](https://www.morphthing.com/), [[3Dthis Face Morph]](https://3dthis.com/morph.htm), [[Face Swap Online]](https://faceswaponline.com/), [[Abrosoft FantaMorph]](http://www.fantamorph.com/), [[FaceMorpher]](http://www.facemorpher.com/), [[MagicMorph]](http://www.effectmatrix.com/morphing/).
 
 * Techniques in literature
+
 ![arch](fig/tool.png)
 
 
@@ -21,6 +22,7 @@ This repository contains several landmarked based and deep leaning (GAN) based f
       Alpha blending
 * Post-processing:
    misaligned pixels generating artifacts; ghost-like artifacts
+   
 ![arch](fig/landmark.png)
 
 # deep learning based morphing
@@ -31,5 +33,6 @@ This repository contains several landmarked based and deep leaning (GAN) based f
          Synthesize using Generator
 * Post-processing if needed: 
    Synthetic-like generation artifacts
+   
    ![arch](fig/deep.png)
 
