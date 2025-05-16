@@ -9,7 +9,7 @@ from torch.nn import functional as F
 from torch.autograd import Function
 
 from op import FusedLeakyReLU, fused_leaky_relu, upfirdn2d
-
+//2025.05.17 
 
 class PixelNorm(nn.Module):
     def __init__(self):
